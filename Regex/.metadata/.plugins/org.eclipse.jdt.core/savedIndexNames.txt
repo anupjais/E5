@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/Users/anupjaiswal/Desktop/E5/Regex/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+48182931.index
+1635252931.index
