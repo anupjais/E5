@@ -27,6 +27,6 @@ class VectorCollectionCapacity
 		System.out.println(v1);
 		System.out.println(v1.firstElement());
 		System.out.println(v1.lastElement());
-		v1.checkInvariants();
+		v1.checkInvariants();s 
 	}
 }
